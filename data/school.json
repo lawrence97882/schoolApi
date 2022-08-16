@@ -1,0 +1,23 @@
+{
+    "header":[
+        ["general_school", "school",[], "id", 0], 
+        ["general_school", "school", [],"name", 1],
+        ["general_school", "school", [],"address", 2],
+        ["general_school", "school", [],"logo", 3]
+    ],
+    "body":[
+        ["kaps","Kiserian Adventist Primary School",
+            "kaps.co.ke",".//images//img10.png"],
+        ["redsoil","RedSoil Academy","redsoil.ac.ke",".//images//img10.png"],
+        ["sh", "Sacred hearts Academy","secredhrts.co.ke",".//images//img10.png"],
+        ["jl", "joyland Academy","secredhrts.co.ke",".//images//img10.png"],
+        ["ong", "ongatta Academy","secredhrts.co.ke",".//images//img10.png"],
+        ["naramat", "Naramat Academy","secredhrts.co.ke",".//images//img10.png"],
+        ["memusi", "Memusi Academy","secredhrts.co.ke",".//images//img10.png"],
+        ["dawamu", "Dawamu Academy","secredhrts.co.ke",".//images//img10.png"],
+        ["laiser", "Laiser hill Academy","secredhrts.co.ke",".//images//img10.png"],
+        ["leisa", "leisa Girls Academy","secredhrts.co.ke",".//images//img10.png"],
+        ["shephard", "Goodshepherd Academy","secredhrts.co.ke",".//images//img10.png"]
+
+    ]
+}

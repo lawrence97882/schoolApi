@@ -1,0 +1,23 @@
+{
+    "header":[
+        ["general_school", "subject",[], "id", 0], 
+        ["general_school", "subject", [],"name", 1],
+        ["general_school", "teacher", [],"is_valid", 2],
+        ["general_school", "staff", [],"email", 3],
+        ["mutall_users", "user", [],"email", 3]
+    ],
+    "body":[
+        ["MATH","Mathematics",true,"james@gmail"],
+        ["ENG",	"Language",true,"patrick@gmail"],
+        ["SCI&TECH", "Science and technology",true,"john@gmail"],
+        ["AGRIC", "Agriculture",true,"kibet@gmail"],
+        ["HOMESCI", "Home science",true,"joy@gmail"],
+        ["KIS",	"Kiswahili",true,"mary@gmail"],
+        ["SST",	"Social studies",true,"charles@gmail"],
+        ["CRE",	"Christian Religious Education",true,"moses@gmail"],
+        ["PHE",	"Physical Hygene",true,"harry@gmail"],
+        ["COMP", "Composition",true,"patrick@gmail"],
+        ["INS",	"Insha",true,"mary@gmail"],
+        ["CMP",	"Computer",true,"james@gmail"]
+    ]
+}
